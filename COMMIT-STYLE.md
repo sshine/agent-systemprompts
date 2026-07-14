@@ -18,6 +18,8 @@ Body:
 - Don't use backticks for keywords excessively; a little is fine, but it clutters.
 - Organize the body into sections with headings just like in this git commit style instruction.
 - Section names only need to be consistent within a commit: They can be filenames, scopes, topics.
+- When asked to move comments to commit messages, adapt the comments to this style instead of
+  copying them verbatim. Don't leave out too many details this way, but don't break the format.
 - Occasionally, when there is a complex why, break into prose at the bottom of a bullet list, but
   make sure the words wrap nicely at the margin so it's pleasant to read; in particular, large code
   lines can mess this up. (This bullet is an example of how the last bullet is really a paragraph.)
