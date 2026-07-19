@@ -1,5 +1,10 @@
 ## git commit style
 
+These rules apply when:
+- formulating git commit messages
+- creating pull requests and issues
+- commenting in issue trackers
+
 Subject:
 - Separate subject from body with a blank line.
 - Use conventional commits: `feat: blah`, `fix: blah`, `chore: blah`, `docs: blah`.
